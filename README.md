@@ -1,6 +1,6 @@
 ## Buscador Global - Visualizador Geodemográfico
 
-Aplicação de console em Java que consome a API pública RestCountries v3.1 para consultar, comparar e listar dados geopolíticos de países e continentes — população, área e densidade demográfica.
+Aplicação de console em Java que consome a API pública RestCountries v3.1 para consultar, comparar e listar dados geopolíticos de países e continentes em termos de população, área e densidade demográfica.
 
 ---
 
