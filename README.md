@@ -28,8 +28,8 @@ Lista todos os países ou aplica filtros por população mínima, área mínima 
 ## Tecnologias
 
 - Java 17+
-- [Jackson Databind](https://github.com/FasterXML/jackson-databind) — desserialização JSON
-- [RestCountries API v3.1](https://restcountries.com) — fonte de dados
+- [Jackson Databind](https://github.com/FasterXML/jackson-databind) -> desserialização JSON
+- [RestCountries API v3.1](https://restcountries.com) -> fonte de dados
 
 ---
 
